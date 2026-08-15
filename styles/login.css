@@ -8,7 +8,7 @@
     .login-page {
       min-height: 100vh;
       background-image:
-      url("/assets/images/bg-login.png");
+      url("../assets/images/bg-login.png");
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
